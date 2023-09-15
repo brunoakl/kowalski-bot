@@ -1,0 +1,5 @@
+aqui serão listadas as dependências usadas no programa.
+o arquivo será atualizado conforme necessário
+
+pip install:
+nltk torch transformers 
